@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-who-wants-to-be-a-millionaire/static/css/main.420aefb2.css",
+    "main.js": "/react-who-wants-to-be-a-millionaire/static/js/main.29351312.js",
+    "static/js/845.2538ee3a.chunk.js": "/react-who-wants-to-be-a-millionaire/static/js/845.2538ee3a.chunk.js",
+    "static/media/bg.jpg": "/react-who-wants-to-be-a-millionaire/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/react-who-wants-to-be-a-millionaire/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/react-who-wants-to-be-a-millionaire/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/react-who-wants-to-be-a-millionaire/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/react-who-wants-to-be-a-millionaire/index.html",
+    "main.420aefb2.css.map": "/react-who-wants-to-be-a-millionaire/static/css/main.420aefb2.css.map",
+    "main.29351312.js.map": "/react-who-wants-to-be-a-millionaire/static/js/main.29351312.js.map",
+    "845.2538ee3a.chunk.js.map": "/react-who-wants-to-be-a-millionaire/static/js/845.2538ee3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420aefb2.css",
+    "static/js/main.29351312.js"
+  ]
+}
